@@ -1,2 +1,2 @@
 # Ghost-Land
-my firsl platform 2D game in unity
+My firsl platform 2D game in unity
